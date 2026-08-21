@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP1? ein Programm bauen das mir eine Random zahl von 1-100 sagt und ich sie raten muss wenn ich tiefer bin sagt sie mir tiefer oder höher.
+2. Was wäre ein geeignetes Projekt für diese LP1? Ein Quiz programm mit true und false antworten.
 
 ## 28.8.2026
 
