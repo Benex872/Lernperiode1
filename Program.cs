@@ -1,0 +1,28 @@
+﻿Console.Write("Willkommen zum Zahlen guesser!!");
+Random random = new Random();
+Console.ReadLine();
+int geheimzahl = random.Next(1, 101);
+Console.WriteLine("Ich habe eine Zahl zwischen 1 und 100 gewählt.");
+int tipp;
+do
+{
+    
+    Console.WriteLine("Rate die Zahl:");
+    tipp = Convert.ToInt32(Console.ReadLine());
+
+    if (tipp == geheimzahl)
+    {
+        Console.WriteLine("Richtig! ");
+    }
+    else if (tipp < geheimzahl)
+    {
+        Console.WriteLine("Höher!");
+    }
+    else
+    {
+        Console.WriteLine("Tiefer!");
+    } 
+
+}while (tipp != geheimzahl);
+Console.WriteLine("du hst die Zahl erraten!");
+Console.ReadLine();
