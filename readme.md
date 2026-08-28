@@ -13,10 +13,9 @@ Heute habe ich 3 verschiedene Programme geschrieben das erste wart ein Zahlen er
 
 ## 6.9.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
-
+- [ ] IEine Schleife programmieren, die etwas so oft wiederholt, wie der Benutzer angibt.
+- [ ] Ein Quiz programmieren, das dem Benutzer so viele Fragen stellt, wie er möchte.
+- [ 3] Herausfinden, wie ein Programm automatisch eigene Fragen erstellen kann.
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
