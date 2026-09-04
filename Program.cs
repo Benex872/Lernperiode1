@@ -1,0 +1,8 @@
+﻿Console.Write("Wie lange soll die schleife gehen? ");
+int schleifenLaenge = Convert.ToInt32(Console.ReadLine());
+while (schleifenLaenge > 0)
+{
+    Console.WriteLine(schleifenLaenge-1);
+    Thread.Sleep(1000);
+    schleifenLaenge--;
+}
