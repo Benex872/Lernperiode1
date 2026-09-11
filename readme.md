@@ -21,9 +21,14 @@ Heute habe ich eine Schleife programmiert die etwas so oft wiederholt, wie der B
 ich habe es leider nicht geschafft ein Quiz zu Programmieren das dem Benutzer so viele Fragen stellt, wie er möchte.
 
 ## 11.9.2026
-- [ ] Eine Datenbank erstellen in denen ich 10 Quiz fragen speichern kann und die zu einer Nummer speicher.
-- [ ] Das Programm soll den Benutzer fragen wie viele Fragen er haben will in seinem Quiz.
-- [ ] Das der Benutzer eingeben kann wie viele Fragen er will und sie im auch gestellt werden.
-- [ ] Herausfinden, wie ein Programm automatisch eigene Fragen erstellen kann.
+- [x] Eine Datenbank erstellen in denen ich 10 Quiz fragen speichern kann und die zu einer Nummer speicher.
+- [x] Das Programm soll den Benutzer fragen wie viele Fragen er haben will in seinem Quiz.
+- [x] Das der Benutzer eingeben kann wie viele Fragen er will und sie im auch gestellt werden.
+- [x] Herausfinden, wie ein Programm automatisch eigene Fragen erstellen kann.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich eine Datenbank erstellen kann in denn ich Fragen speichern kann und sie jederzeit aufrufen kann. Ich habe auch gelernt wie ich ein Programm schreiben kann das automatisch Fragen generiert und diese mir stellt.
+
+## 18.9.2026
+- [ ] Taschenrechner programmieren.
+- [ ] Altersrechner programmieren.
+- [ ] Array mit Noten ( #Hausaufgabe# )
