@@ -25,7 +25,7 @@ do
 // Frage 1
 if (numberOfQuestions >= 1)
 {
-    bool answer;
+    bool answer; // a bool because answers can only be true or false
 
     do
     {
