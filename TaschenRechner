@@ -1,0 +1,36 @@
+﻿
+Console.WriteLine("======Taschenrechner======");
+
+Console.Write("Gib die erste Zahl ein: ");
+double zahl1 = Convert.ToDouble(Console.ReadLine()); // Die erste Zahl wird vom Benutzer eingegeben und in eine double-Variable umgewandelt.
+
+Console.Write("Gib die zweite Zahl ein: ");
+double zahl2 = Convert.ToDouble(Console.ReadLine()); // Die zweite Zahl wird vom Benutzer eingegeben und in eine double-Variable umgewandelt.
+
+Console.Write("Gib die Rechenart ein (+, -, *, /): ");
+string rechenart = Console.ReadLine();// Die Rechenart wird vom Benutzer eingegeben und in eine string-Variable umgewandelt.
+
+double ergebnis = 0;
+
+if (rechenart == "+")
+{
+    ergebnis = zahl1 + zahl2;
+}
+else if (rechenart == "-")
+{
+    ergebnis = zahl1 - zahl2;
+}
+else if (rechenart == "*")
+{
+    ergebnis = zahl1 * zahl2;
+}
+else if (rechenart == "/")
+{
+    ergebnis = zahl1 / zahl2;
+}
+else
+{
+    Console.WriteLine("Ungültige Rechenart!");
+}
+
+Console.WriteLine("Ergebnis: " + ergebnis);
