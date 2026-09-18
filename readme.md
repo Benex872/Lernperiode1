@@ -10,6 +10,11 @@ Mit Console.WriteLine() gibt das Programm Text auf dem Bildschirm aus und mit Co
 
 Das Programm verwendet auch if und else. if bedeutet „wenn“ und überprüft eine Bedingung. Wenn die Bedingung stimmt, wird der Code im if ausgeführt. Wenn sie nicht stimmt, wird der Code im else ausgeführt. Bei einer richtigen Antwort wird mit points++ die Punktzahl um 1 erhöht.
 
+Für die Eingabe der Anzahl der Fragen und für ungültige Antworten wird eine do-while-Schleife verwendet. Eine do-while-Schleife führt den Code zuerst einmal aus und überprüft danach die Bedingung. Dadurch kann das Programm so lange nach einer neuen Eingabe fragen, bis der Benutzer eine gültige Eingabe macht.
+
+Am Ende zeigt das Programm an, wie viele Punkte der Benutzer erreicht hat. Dadurch verbindet das Programm mehrere wichtige C#-Grundlagen wie Variablen, int, bool, if/else, do-while, Benutzereingaben und Bedingungen.
+
+
 
 ## Grob-Planung
 
@@ -41,9 +46,9 @@ Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich e
 - [x] Taschenrechner programmieren.
 - [x] Altersrechner programmieren.
 - [x] Array mit Noten ( _Hausaufgabe_ )
- Ich habe die Hausaufgaben zuhause gemacht und ich habe mit den Arrays Noten gespeichert und der Benutzer kann sagen was die maximale Punkte waren und seine ereichten Punkte und das gab dann eine Note. 
+
+ Heute habe ich an meinen 2 Lernpaketen gearbeitet und danach habe ich an meinem Projekt gearbeitet und den variablen Gute Namen gegeben damit ich auch in 3 Wochen keine Probleme haben werde. Ich habe auch noch zu Verständnis Kommentare hinzugefügt damit auch Personen die keinen Code verstehen ungefähr eine ahnung haben was welches Programm macht.
+
+ ## Reflektion
 
 
-Für die Eingabe der Anzahl der Fragen und für ungültige Antworten wird eine do-while-Schleife verwendet. Eine do-while-Schleife führt den Code zuerst einmal aus und überprüft danach die Bedingung. Dadurch kann das Programm so lange nach einer neuen Eingabe fragen, bis der Benutzer eine gültige Eingabe macht.
-
-Am Ende zeigt das Programm an, wie viele Punkte der Benutzer erreicht hat. Dadurch verbindet das Programm mehrere wichtige C#-Grundlagen wie Variablen, int, bool, if/else, do-while, Benutzereingaben und Bedingungen.
