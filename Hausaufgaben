@@ -1,0 +1,22 @@
+﻿double[] noten = new double[5];
+
+for (int i = 0; i < noten.Length; i++)
+{
+    Console.Write("Maximale Punkte: ");
+    double maxPunkte = Convert.ToDouble(Console.ReadLine());
+
+    Console.Write("Erreichte Punkte: ");
+    double erreichtePunkte = Convert.ToDouble(Console.ReadLine());
+
+    noten[i] = 1 + 5 * erreichtePunkte / maxPunkte;
+
+    Console.WriteLine("Note: " + noten[i]);
+    Console.WriteLine();
+}
+
+Console.WriteLine("Alle Noten:");
+
+for (int i = 0; i < noten.Length; i++)
+{
+    Console.WriteLine("Note {0}: {1:F2}", i + 1, noten[i]);
+}
