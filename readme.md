@@ -49,6 +49,6 @@ Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich e
 
  Heute habe ich an meinen 2 Lernpaketen gearbeitet und danach habe ich an meinem Projekt gearbeitet und den variablen Gute Namen gegeben damit ich auch in 3 Wochen keine Probleme haben werde. Ich habe auch noch zu Verständnis Kommentare hinzugefügt damit auch Personen die keinen Code verstehen ungefähr eine ahnung haben was welches Programm macht.
 
- ## Reflektion
-
-
+## Reflextion
+In dieser Lernperiode habe ich viele verschiedene Programme in C# erstellt und dabei Schritt für Schritt neue Dinge gelernt. Mein Hauptprojekt war ein True-or-False-Quiz, an dem ich jeden Freitag weitergearbeitet und es immer wieder verbessert habe. Am Anfang habe ich mit kleineren Programmen wie einem Zahlen-Guesser und einem Notenrechner begonnen. Dabei habe ich die Grundlagen gelernt und konnte dieses Wissen später für mein Quiz verwenden. Zum Beispiel habe ich gelernt, Benutzereingaben in bool umzuwandeln und Schleifen zu verwenden, damit mehrere Fragen gestellt werden können. Später habe ich mich mit einer Datenbank für meine Quizfragen und mit automatisch generierten Fragen beschäftigt.
+Ich habe dabei gemerkt, dass ich immer selbstständiger wurde und neue Probleme besser lösen konnte. Mein Projekt wurde mit der Zeit immer umfangreicher und ist auf 351 Zeilen gewachsen. Am Ende habe ich mich auch darum gekümmert, meinen Code übersichtlicher zu machen, indem ich bessere Variablennamen verwendet und Kommentare hinzugefügt habe. Dadurch habe ich verstanden, dass Programmieren nicht nur bedeutet, dass der Code funktioniert, sondern auch, dass man ihn später noch verstehen und bearbeiten kann.
