@@ -31,4 +31,5 @@ Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich e
 ## 18.9.2026
 - [ ] Taschenrechner programmieren.
 - [ ] Altersrechner programmieren.
-- [ ] Array mit Noten ( _Hausaufgabe_ )
+- [x] Array mit Noten ( _Hausaufgabe_ )
+ Ich habe die Hausaufgaben zuhause gemacht und ich habe mit den Arrays Noten gespeichert und der Benutzer kann sagen was die maximale Punkte waren und seine ereichten Punkte und das gab dann eine Note. 
