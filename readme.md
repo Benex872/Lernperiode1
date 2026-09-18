@@ -1,6 +1,15 @@
 # Lern-Periode 1
+## Zussamenfassung von meinem Quiz Projekt
+<img width="1270" height="708" alt="Aufzeichnung 2026-09-18 161938" src="https://github.com/user-attachments/assets/724e06b8-71e6-4c78-9489-7901d96bf8a7" />
 
-28.8 bis ?
+Das Programm ist ein True-or-False-Quiz, das in C# programmiert wurde. Der Benutzer kann zuerst auswählen, wie viele Fragen er beantworten möchte. Dabei kann er zwischen 1 und 10 Fragen auswählen. Gibt er beispielsweise 11 ein, sagt das Programm, dass die Zahl zwischen 1 und 10 liegen muss, und fragt erneut nach einer Eingabe.
+
+Für die Punkte wird eine int-Variable namens points verwendet. int steht für eine ganze Zahl. Die Antworten werden mit bool gespeichert. Ein bool kann nur true oder false sein, deshalb eignet er sich gut für ein True-or-False-Quiz.
+
+Mit Console.WriteLine() gibt das Programm Text auf dem Bildschirm aus und mit Console.ReadLine() liest es die Eingabe des Benutzers ein. Mit TryParse wird überprüft, ob die Eingabe gültig ist. Wenn der Benutzer zum Beispiel etwas anderes als true oder false eingibt, wird eine Fehlermeldung angezeigt und er kann die Antwort erneut eingeben.
+
+Das Programm verwendet auch if und else. if bedeutet „wenn“ und überprüft eine Bedingung. Wenn die Bedingung stimmt, wird der Code im if ausgeführt. Wenn sie nicht stimmt, wird der Code im else ausgeführt. Bei einer richtigen Antwort wird mit points++ die Punktzahl um 1 erhöht.
+
 
 ## Grob-Planung
 
@@ -34,16 +43,6 @@ Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich e
 - [x] Array mit Noten ( _Hausaufgabe_ )
  Ich habe die Hausaufgaben zuhause gemacht und ich habe mit den Arrays Noten gespeichert und der Benutzer kann sagen was die maximale Punkte waren und seine ereichten Punkte und das gab dann eine Note. 
 
-## Zussamenfassung von meinem Quiz Projekt
-<img width="1270" height="708" alt="Aufzeichnung 2026-09-18 161938" src="https://github.com/user-attachments/assets/724e06b8-71e6-4c78-9489-7901d96bf8a7" />
-
-Das Programm ist ein True-or-False-Quiz, das in C# programmiert wurde. Der Benutzer kann zuerst auswählen, wie viele Fragen er beantworten möchte. Dabei kann er zwischen 1 und 10 Fragen auswählen. Gibt er beispielsweise 11 ein, sagt das Programm, dass die Zahl zwischen 1 und 10 liegen muss, und fragt erneut nach einer Eingabe.
-
-Für die Punkte wird eine int-Variable namens points verwendet. int steht für eine ganze Zahl. Die Antworten werden mit bool gespeichert. Ein bool kann nur true oder false sein, deshalb eignet er sich gut für ein True-or-False-Quiz.
-
-Mit Console.WriteLine() gibt das Programm Text auf dem Bildschirm aus und mit Console.ReadLine() liest es die Eingabe des Benutzers ein. Mit TryParse wird überprüft, ob die Eingabe gültig ist. Wenn der Benutzer zum Beispiel etwas anderes als true oder false eingibt, wird eine Fehlermeldung angezeigt und er kann die Antwort erneut eingeben.
-
-Das Programm verwendet auch if und else. if bedeutet „wenn“ und überprüft eine Bedingung. Wenn die Bedingung stimmt, wird der Code im if ausgeführt. Wenn sie nicht stimmt, wird der Code im else ausgeführt. Bei einer richtigen Antwort wird mit points++ die Punktzahl um 1 erhöht.
 
 Für die Eingabe der Anzahl der Fragen und für ungültige Antworten wird eine do-while-Schleife verwendet. Eine do-while-Schleife führt den Code zuerst einmal aus und überprüft danach die Bedingung. Dadurch kann das Programm so lange nach einer neuen Eingabe fragen, bis der Benutzer eine gültige Eingabe macht.
 
