@@ -29,8 +29,8 @@ ich habe es leider nicht geschafft ein Quiz zu Programmieren das dem Benutzer so
 Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich eine Datenbank erstellen kann in denn ich Fragen speichern kann und sie jederzeit aufrufen kann. Ich habe auch gelernt wie ich ein Programm schreiben kann das automatisch Fragen generiert und diese mir stellt.
 
 ## 18.9.2026
-- [ ] Taschenrechner programmieren.
-- [ ] Altersrechner programmieren.
+- [x] Taschenrechner programmieren.
+- [x] Altersrechner programmieren.
 - [x] Array mit Noten ( _Hausaufgabe_ )
  Ich habe die Hausaufgaben zuhause gemacht und ich habe mit den Arrays Noten gespeichert und der Benutzer kann sagen was die maximale Punkte waren und seine ereichten Punkte und das gab dann eine Note. 
 
