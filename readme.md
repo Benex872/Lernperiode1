@@ -34,7 +34,7 @@ Heute habe ich an meinen Arbeitspaketen gearbeitet und heraus gefunden wie ich e
 - [x] Array mit Noten ( _Hausaufgabe_ )
  Ich habe die Hausaufgaben zuhause gemacht und ich habe mit den Arrays Noten gespeichert und der Benutzer kann sagen was die maximale Punkte waren und seine ereichten Punkte und das gab dann eine Note. 
 
-##Zussamenfassung von meinem Quiz Projekt
+## Zussamenfassung von meinem Quiz Projekt
 
 Das Programm ist ein True-or-False-Quiz, das in C# programmiert wurde. Der Benutzer kann zuerst auswählen, wie viele Fragen er beantworten möchte. Dabei kann er zwischen 1 und 10 Fragen auswählen. Gibt er beispielsweise 11 ein, sagt das Programm, dass die Zahl zwischen 1 und 10 liegen muss, und fragt erneut nach einer Eingabe.
 
